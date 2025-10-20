@@ -1,0 +1,10 @@
+.foto {
+    display: flex;
+}
+
+.contenido-de-la-carta {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
